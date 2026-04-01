@@ -34,8 +34,8 @@
 ## 📈 Estatísticas do GitHub
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true&theme=tokyonight&locale=pt-br">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight&locale=pt-br">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight&locale=pt-br&cache_seconds=1800">
 </div>
 
 ---
