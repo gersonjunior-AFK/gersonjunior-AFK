@@ -33,10 +33,14 @@
 
 ## 📈 Estatísticas do GitHub
 
-<div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight&locale=pt-br&cache_seconds=1800">
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=gersonjunior-AFK&theme=tokyonight&locale=pt_BR" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gersonjunior-AFK&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gersonjunior-AFK&theme=tokyonight" />
+</p>
 
 ---
 
