@@ -48,6 +48,7 @@
 
 <div align="center">
 
+
 ## 🚀 Conecte-se comigo
 
 <a href="https://www.linkedin.com/in/gerson-junior-9a3254362/" target="_blank">
@@ -65,7 +66,6 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
 
 </div>
-
 ---
 
 ## 💡 Frase
