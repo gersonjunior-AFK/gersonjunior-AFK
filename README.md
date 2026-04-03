@@ -1,9 +1,15 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Gerson+Junior;Desenvolvedor+de+Sistemas;Docente+de+Tecnologia;Bem-vindo+ao+meu+GitHub!"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00F7FF&height=250&section=header&text=Gerson%20Junior&fontSize=45&fontColor=ffffff&animation=twinkling"/>
 
-<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Gerson+Junior;Desenvolvedor+Full+Stack;Docente+de+Tecnologia;Construindo+o+futuro+com+código"/>
+
+<br>
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 
 </div>
 
@@ -11,43 +17,56 @@
 
 # 👋 Olá, eu sou Gerson
 
-🎓 **Docente no Senac DF**  
-💻 **Desenvolvedor de Sistemas apaixonado por tecnologia e ensino**
+<h3 align="center">💻 Transformando ideias em sistemas reais</h3>
+
+🎓 Docente no Senac DF  
+💻 Desenvolvedor Full Stack  
+🚀 Apaixonado por tecnologia e ensino  
 
 ---
 
 ## 🚀 Sobre mim
 
-- 👨🏿‍🏫 Docente na área de tecnologia  
+- 👨🏿‍🏫 Ensino tecnologia e desenvolvimento  
 - 🧑🏿‍💻 Experiência com Front-End e Back-End  
 - 🎨 Prototipação com Figma  
-- 📚 Sempre evoluindo e aprendendo  
-- 🤝 Aberto para oportunidades e projetos  
+- 📚 Aprendizado constante  
+- 🤝 Aberto a projetos e oportunidades  
 
 ---
 
-## 🛠️ Tecnologias
+## ⚡ Diferencial
+
+- 🚀 Experiência real com ensino + prática  
+- 🧠 Aprendizado rápido  
+- 💡 Foco em resolver problemas reais  
+- 🔥 Mentalidade de evolução constante  
+
+---
+
+## 🧠 Stack Tecnológica
 
 <div align="center">
 
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img height="45" src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,figma,git,github&theme=dark" />
 
 </div>
 
 ---
 
-## ⭐ Projetos em destaque
+## 🚀 Projetos
 
-🚧 *Em breve você pode adicionar aqui seus melhores projetos:*
+<div align="center">
 
-- 🔗 Projeto 1 – descrição curta  
-- 🔗 Projeto 2 – descrição curta  
-- 🔗 Projeto 3 – descrição curta  
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonjunior-AFK&repo=seu-repositorio&theme=tokyonight"/>
+</a>
+
+<a href="#">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonjunior-AFK&repo=seu-repositorio2&theme=tokyonight"/>
+</a>
+
+</div>
 
 ---
 
@@ -55,15 +74,15 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Atividade
+## 🔥 Streak
 
 <div align="center">
 
@@ -73,21 +92,27 @@
 
 ---
 
+## 📈 Atividade em tempo real
+
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonjunior-AFK&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonjunior-AFK&theme=react-dark&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🏆 Conquistas
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gersonjunior-AFK&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gersonjunior-AFK&theme=radical&no-frame=true&row=1&column=7"/>
 
 </div>
 
-## 🐍 Contribuições
+---
+
+## 🐍 Snake Animation
 
 <div align="center">
 
@@ -97,7 +122,22 @@
 
 ---
 
-## 🌐 Conecte-se comigo
+## 📚 Atualmente estudando
+
+- React avançado  
+- APIs REST  
+- Node.js  
+- Arquitetura de software  
+
+---
+
+## 🎯 Objetivo
+
+Evoluir como desenvolvedor, construir projetos reais e impactar vidas através da tecnologia.
+
+---
+
+## 🌐 Contato
 
 <div align="center">
 
@@ -123,6 +163,10 @@
 
 ---
 
-## 💡 Frase
+## 💡 Filosofia
 
-_"Tecnologia e educação transformam realidades."_
+_"Disciplina supera talento quando o talento não é disciplinado."_
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=150&section=footer"/>
