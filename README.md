@@ -53,9 +53,9 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact)
 
 </div>
 ---
