@@ -1,13 +1,11 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,100:00F7FF&height=250&section=header&text=Gerson%20Junior&fontSize=45&fontColor=ffffff&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gerson%20Junior&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Olá,+eu+sou+Gerson+Junior;Desenvolvedor+Full+Stack;Docente+de+Tecnologia;Construindo+o+futuro+com+código"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Gerson+Junior;Desenvolvedor+Full+Stack;Docente+de+Tecnologia;Sempre+evoluindo"/>
 
 <br>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120">
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 
@@ -17,54 +15,27 @@
 
 # 👋 Olá, eu sou Gerson
 
-<h3 align="center">💻 Transformando ideias em sistemas reais</h3>
+<h3 align="center">💻 Transformando código em soluções reais</h3>
 
 🎓 Docente no Senac DF  
 💻 Desenvolvedor Full Stack  
-🚀 Apaixonado por tecnologia e ensino  
 
 ---
 
 ## 🚀 Sobre mim
 
-- 👨🏿‍🏫 Ensino tecnologia e desenvolvimento  
-- 🧑🏿‍💻 Experiência com Front-End e Back-End  
-- 🎨 Prototipação com Figma  
+- 👨🏿‍🏫 Ensino tecnologia  
+- 🧑🏿‍💻 Trabalho com desenvolvimento  
 - 📚 Aprendizado constante  
-- 🤝 Aberto a projetos e oportunidades  
+- 🤝 Aberto a oportunidades  
 
 ---
 
-## ⚡ Diferencial
-
-- 🚀 Experiência real com ensino + prática  
-- 🧠 Aprendizado rápido  
-- 💡 Foco em resolver problemas reais  
-- 🔥 Mentalidade de evolução constante  
-
----
-
-## 🧠 Stack Tecnológica
+## 🛠️ Tecnologias
 
 <div align="center">
 
-<img height="45" src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,figma,git,github&theme=dark" />
-
-</div>
-
----
-
-## 🚀 Projetos
-
-<div align="center">
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonjunior-AFK&repo=seu-repositorio&theme=tokyonight"/>
-</a>
-
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=gersonjunior-AFK&repo=seu-repositorio2&theme=tokyonight"/>
-</a>
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,nodejs,git,github,figma" />
 
 </div>
 
@@ -74,15 +45,25 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gersonjunior-AFK&theme=tokyonight"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gersonjunior-AFK&theme=tokyonight"/>
 
 </div>
 
 ---
 
-## 🔥 Streak
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gersonjunior-AFK&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🔥 Contribuições
 
 <div align="center">
 
@@ -92,27 +73,7 @@
 
 ---
 
-## 📈 Atividade em tempo real
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gersonjunior-AFK&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gersonjunior-AFK&theme=radical&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-## 🐍 Snake Animation
+## 🐍 Snake
 
 <div align="center">
 
@@ -124,16 +85,15 @@
 
 ## 📚 Atualmente estudando
 
-- React avançado  
-- APIs REST  
+- React  
 - Node.js  
-- Arquitetura de software  
+- APIs REST  
 
 ---
 
 ## 🎯 Objetivo
 
-Evoluir como desenvolvedor, construir projetos reais e impactar vidas através da tecnologia.
+Crescer como desenvolvedor e impactar pessoas através da tecnologia.
 
 ---
 
@@ -163,10 +123,4 @@ Evoluir como desenvolvedor, construir projetos reais e impactar vidas através d
 
 ---
 
-## 💡 Filosofia
-
-_"Disciplina supera talento quando o talento não é disciplinado."_
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:000000&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
