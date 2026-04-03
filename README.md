@@ -51,7 +51,7 @@
 
 ## 🚀 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/gerson-junior-9a3254362/" target="_blank">
+<a href="https://www.linkedin.com/in/gersonjunior-AFK-9a3254362/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -61,9 +61,9 @@
 
 <br><br>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true&theme=tokyonight"/>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight"/>
 
 </div>
 ---
