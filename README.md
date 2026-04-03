@@ -60,6 +60,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 
 </div>
+
 ---
 
 ## 🔥 Atividade
