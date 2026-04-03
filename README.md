@@ -43,27 +43,19 @@
 </p>
 
 ---
-
-## 🌐 Contato
-
 <div align="center">
-
 
 ## 🚀 Conecte-se comigo
 
-<a href="https://www.linkedin.com/in/gersonjunior-AFK-9a3254362/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerson-junior-9a3254362/)
 
-<a href="https://www.instagram.com/gerson_.xt/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gerson_.xt/)
 
-<br><br>
+---
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=gersonjunior-AFK&show_icons=true&theme=tokyonight"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true)
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonjunior-AFK&layout=compact&theme=tokyonight"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact)
 
 </div>
 ---
