@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Ola,+eu+sou+Gerson+Junior;Desenvolvedor+Full+Stack;Docente+de+Tecnologia;Sempre+evoluindo"/>
 <br>
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
