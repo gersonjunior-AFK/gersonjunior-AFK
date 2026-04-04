@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Ola,+eu+sou+Gerson+Junior;Desenvolvedor+Full+Stack;Docente+de+Tecnologia;Sempre+evoluindo"/>
+<img src="https://capsulerender.vercel.app/apitype=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gerson%20Junior&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Gerson+Junior;Desenvolvedor+Full+Stack;Docente+de+Tecnologia;Sempre+evoluindo"/>
 
