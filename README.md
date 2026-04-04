@@ -1,9 +1,11 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Ola,+eu+sou+Gerson+Junior;Desenvolvedor+Full+Stack;Docente+de+Tecnologia;Sempre+evoluindo"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Gerson%20Junior&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Gerson+Junior;Desenvolvedor+Full+Stack;Docente+de+Tecnologia;Sempre+evoluindo"/>
 <br>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
+
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400">
 
 </div>
