@@ -107,12 +107,6 @@ Crescer como desenvolvedor e impactar pessoas através da tecnologia.
 
 </div>
 
----
-
-## 👀 Visitantes
-
-<div align="center">
-
 <img src="https://komarev.com/ghpvc/?username=gersonjunior-AFK&style=for-the-badge&color=blue">
 
 </div>
