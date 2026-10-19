@@ -105,10 +105,5 @@ Crescer como desenvolvedor e impactar pessoas através da tecnologia.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-</div>
-
-<img src="https://komarev.com/ghpvc/?username=gersonjunior-AFK&style=for-the-badge&color=blue">
-
-</div>
 
 
